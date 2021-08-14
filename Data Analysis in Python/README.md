@@ -1,5 +1,5 @@
 # Covid-19-Analysis
-My Very First Data Analysis Project!
+Data Analysis Project!
 
 About Covid-19:
 
